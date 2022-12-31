@@ -9,7 +9,7 @@ This repo contains the python code in order to do sentiment analysis and topic m
 > Happy exploring!
 > Agus Sigit Wisnubroto
 
-The code currently will be a drive link, but will be put here ASAP 
+Currently will be a drive link, but the actual code will be put here ASAP 
 
 Drive : https://colab.research.google.com/drive/12BeSR_bO0sv4TohWvvItU9dh9z4wqqRe?usp=sharing
 
